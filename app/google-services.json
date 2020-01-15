@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "759092396044",
+    "firebase_url": "https://golpokotha-24daf.firebaseio.com",
+    "project_id": "golpokotha-24daf",
+    "storage_bucket": "golpokotha-24daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759092396044:android:b7551af0c3ace2dc",
+        "android_client_info": {
+          "package_name": "com.example.zareen_tasnim.golpokotha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759092396044-so12958diin2tmrqis09m7vi8kra3omo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zareen_tasnim.golpokotha",
+            "certificate_hash": "ceffd1829b9375d043a80f1f41de65b769cdd7de"
+          }
+        },
+        {
+          "client_id": "759092396044-2q69q6981p8r2oo2e1mvolqn28fiqpgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNZBgFFUI-jsiGL4hitTTaKkybiUOD5mw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759092396044-2q69q6981p8r2oo2e1mvolqn28fiqpgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
